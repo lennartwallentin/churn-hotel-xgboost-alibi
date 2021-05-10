@@ -20,4 +20,7 @@ This project is broadly laid out as follows:
     (3.1) Counterfactuals Guided by Prototypes - in action
 
 
+
+
+
 The xlsx-file, ‘bayesian_optimization_iterations.xlsx’ contains all the Bayesian optimization iterations. 
