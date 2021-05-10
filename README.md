@@ -1,4 +1,6 @@
 # churn-hotel-xgboost-alibi
+An XGBoost model in Python that classifies if a customer will cancel his/her hotel booking or not. I also use counterfactuals guided by prototypes from the Alibi package to explore the minimum changes needed to flip a prediction from canceled to not canceled and vice versa. 
+
 This project is mainly structured as follows:
 
 (1) Data preparation
@@ -18,9 +20,5 @@ This project is mainly structured as follows:
 (3) Alibi
     
     (3.1) Counterfactuals Guided by Prototypes - in action
-
-
-
-
 
 The xlsx-file, ‘bayesian_optimization_iterations.xlsx’ contains all the Bayesian optimization iterations. 
