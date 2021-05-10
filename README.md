@@ -1,7 +1,7 @@
 # churn-hotel-xgboost-alibi
 An XGBoost model in Python that classifies if a customer will cancel his/her hotel booking or not. I also use counterfactuals guided by prototypes from the Alibi package to explore the minimum changes needed to flip a prediction from canceled to not canceled and vice versa. 
 
-This project 'churn_xgboost_alibi_lennart_wallentin.ipynb' is mainly structured as follows:
+The project 'churn_xgboost_alibi_lennart_wallentin.ipynb' is mainly structured as follows:
 
 (1) Data preparation
     
