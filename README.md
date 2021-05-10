@@ -1,5 +1,6 @@
 # churn-hotel-xgboost-alibi
 This project is broadly laid out as follows:
+
 (1) Data preparation
     (1.1) Data presentation
     (1.2) Handling NA and missing values
