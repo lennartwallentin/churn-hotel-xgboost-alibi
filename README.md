@@ -1,5 +1,5 @@
 # churn-hotel-xgboost-alibi
-This project is broadly laid out as follows:
+This project is broadly structured as follows:
 
 (1) Data preparation
     
