@@ -22,4 +22,5 @@ The project 'churn_xgboost_alibi_lennart_wallentin.ipynb' is mainly structured a
     (3.1) Counterfactuals Guided by Prototypes - in action
 
 The xlsx-file, ‘bayesian_optimization_iterations.xlsx’ contains all the Bayesian optimization iterations. 
+
 The dataset that is used for this project is in the csv-file 'data_churn_xgboost_alibi_lennart_wallentin.csv'
